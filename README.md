@@ -2,7 +2,6 @@
 
 ---
 
-```markdown
 # Guía Paso a Paso: Creando tu Primera Landing Page Profesional
 
 ¡Bienvenido/a, futuro/a desarrollador/a!
